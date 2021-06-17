@@ -1,4 +1,4 @@
-![Probie-Lite](https://github.com/serialwaffle/probie-lite/probie.png)
+![Probie-Lite](https://raw.githubusercontent.com/serialwaffle/probie-lite/main/probie.png)
 
 # probie-lite
 Probie-lite is a lightweight, standalone version of the Probe-Project (also written by SerialWffle, still in development) which is a full-featured, Wi-Fi Probe Request aggregator and analyser. The Probie Project was born out of the need to track pesky solicitors that ignore my "no Soliciting" sign.   
@@ -21,6 +21,10 @@ airmon-ng start wlan1
 
 python3 probie-lite.py wlan1mon
 ```
+
+## Screenshot
+
+![Probie-Lite in action](https://raw.githubusercontent.com/serialwaffle/probie-lite/main/pl_example.png)
 
 ## More Information on probe requests 
 
