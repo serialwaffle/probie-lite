@@ -1,3 +1,5 @@
+![Probie-Lite](https://github.com/serialwaffle/probie-lite/probie.png)
+
 # probie-lite
 Probie-lite is a lightweight, standalone version of the Probe-Project (also written by SerialWffle, still in development) which is a full-featured, Wi-Fi Probe Request aggregator and analyser. The Probie Project was born out of the need to track pesky solicitors that ignore my "no Soliciting" sign.   
 
@@ -30,8 +32,11 @@ More on probe request packets can be found [here](https://en.wikipedia.org/wiki/
 This project was greatly inspired by the following works:
 
 -[How we tracked and analyzed over 200,000 people's footsteps at MIT](https://www.freecodecamp.org/news/tracking-analyzing-over-200-000-peoples-every-step-at-mit-e736a507ddbf/)
+
 -[Tracking people via WiFi (even when not connected](https://www.crc.id.au/tracking-people-via-wifi-even-when-not-connected/)
+
 -[ESP8266 TURNED SECRETIVE WIFI PROBE REQUEST SNIFFER](https://hackaday.com/tag/probe-requests/)
+
 -[How I tracked +500 people with ESP8266](https://hackaday.io/project/174644-how-i-tracked-500-people-with-esp8266)
 
 ## Feedback and issues? 
